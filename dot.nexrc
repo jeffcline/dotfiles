@@ -1,0 +1,12 @@
+set autoindent
+set extended
+set hardtabs=4
+set iclower
+set ruler
+set searchincr
+set shiftwidth=4
+set showmatch
+set showmode
+set tabstop=4
+set cedit=
+set filec=\	

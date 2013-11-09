@@ -1,0 +1,4 @@
+set complete = enhance
+set prompt = "%m:%c%# "
+setenv CLICOLOR yes
+setenv LSCOLORS gxfxcxdxbxegedabagacad
